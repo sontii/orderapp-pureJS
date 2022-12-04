@@ -17,19 +17,37 @@
 <body>
     <div class="wrapper">
         <header>
-            <img class="title-img" src="./images/bg_img.png" alt="Diner advertise">
+            
         </header>
-        <main>
+        
             <div class="food-wrapper" id="food-wrapper">
             </div>
-            <div class="order">
+            <div class="order" id="order">
                 <p>Your order</p>
-                <div class="order-items">
+                <div id="order-items">
 
                 </div>
-                <button class="order-btn" id="order-btn">Complete order</button>
+                <button class="btn order-btn" id="order-btn">Complete order</button>
             </div>
-        </main>
+        
+        <div class="modal-wrapper" id="modal-wrapper">
+            <div class="modal-inner">
+                <h4>
+                    Enter card details
+                </h4>
+                <input type="text" id="order-name" placeholder="Enter your name">
+                <input type="text" placeholder="Enter card number">
+                <input type="text" placeholder="Enter CVV">
+                <button class="btn pay-btn" id="pay-btn">Pay</button>
+            </div>
+        </div>
+
+        <div class="thank-wrapper" id="thank-wrapper">
+            <div class="thank-inner" id="thank-inner">
+                
+            </div>
+        </div>
+
     </div>
     <script src="index.js" type="module"></script>
 </body>

@@ -3,13 +3,13 @@ export const foodData = [
 		type: "Pizza",
 		price: 14,
 		image: "./images/pizza.png",
-		toppings: ['pepperoni', 'mushrom', 'mozarella']
+		toppings: ["pepperoni", "mushrom", "mozarella"]
 	},
 	{
 		type: "Hamburger",
 		price: 12,
 		image: "./images/hamburger.png",
-		toppings: ['beef', 'cheese', 'lettuce']
+		toppings: ["beef", "cheese", "lettuce"]
 	},
 	{
 		type: "Beer",
@@ -17,4 +17,4 @@ export const foodData = [
 		image: "./images/beer.png",
 		toppings: []
 	}
-]
+];
