@@ -2,4 +2,4 @@
 
 Solo project for scrimba frontend career path javascript module.
 
-Figma: https://www.figma.com/file/hE5klIn1AEQ9XWZWmurs7y/Learning-Journal%2FBlog?t=ZbMlAaRcQTR9HpP0-0
+Figma: https://www.figma.com/file/Hdgwo69Dym9vVsxbuPbl0h/Mobile-Restaurant-Menu?node-id=0%3A1&t=j75Gzn93gBbxxg2r-0
